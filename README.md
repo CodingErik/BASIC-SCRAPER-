@@ -17,7 +17,7 @@
   * [License](#license)
   * [Badges](#badges)
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Tests](#test)
   
   ## Installation
   
