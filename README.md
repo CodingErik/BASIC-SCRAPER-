@@ -17,7 +17,7 @@
   * [License](#license)
   * [Badges](#badges)
   * [Contributing](#contributing)
-  * [Tests](#test)
+  * [Tests](#tests)
   
   ## Installation
   
@@ -52,6 +52,6 @@
   
   [Contributor Covenant](https://www.contributor-covenant.org/)
   
-  ## Test
+  ## Tests
   
   n/a
